@@ -1,9 +1,9 @@
-# Representation learning with SimCLR 
+# Representation learning with drp_ssl
 
 ## Installation
-Install from IFPEN GitLab repository:
+Install from repository:
 
-    pip install git+https://gitlab.ifpen.fr/DigitalSandbox/ai_ignite/simclr.ignite_stage.git
+    pip install git+https://github.com/nguyenva04/drp_ssl.git
 
 Install from sources:
 
