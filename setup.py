@@ -1,8 +1,8 @@
 from setuptools import setup
 
-setup(name='simclr',
+setup(name='drp_ssl',
       version='1.0',
-      description='simclr.ai for dataset STL10',
+      description='ssl.ai for drp dataset',
       author='nguyenva',
       author_email='van-thao.nguyen@ifpen.fr',
-      packages=['simclr_stl'])
+      packages=['drp_ssl'])
